@@ -1,0 +1,12 @@
+---
+title: "Analyse des données"
+format: html
+---
+
+## Introduction
+
+Voici un petit code Python :
+
+```{python}
+import pandas as pd
+pd.DataFrame({"x": [1,2,3], "y": [4,5,6]})
